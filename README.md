@@ -2,12 +2,12 @@
 This repository contains a Jupyter Notebook designed for Arabic text classification using the MARBERT model.
 MARBERT is a state-of-the-art transformer-based model fine-tuned for tasks involving Arabic natural language processing (NLP).
 
-<h3>Dataset <h3><br>
+<h3>Dataset <h3>
 the dataset used to train the model can be obtained from the following link https://www.sciencedirect.com/science/article/pii/S2352340923009472#bib0001.
 it's collected from Twitter and has two classes Spam and Ham.<br>
 I have also added the dataset to this project for ease of use. <br>
 
-<h3>Prerequisites</h3> <br>
+<h3>Prerequisites</h3> 
 Ensure you have the following dependencies installed before running the notebook:
 
 Python 3.7+ <br>
@@ -20,7 +20,7 @@ numpy <br>
 matplotlib
 
 <br>
-<br>
+<h3>Notes for excution</h3> 
 During the execution of this project, the dataset is accessed from Google Drive, and the trained model is saved back to Google Drive. To ensure the project runs correctly, update the path parameter to match your own Google Drive directory.
 <br><br>
 For example: path = '/content/drive/MyDrive/Colab/AR/'
