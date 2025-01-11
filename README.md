@@ -19,7 +19,6 @@ pandas <br>
 numpy <br>
 matplotlib
 
-<br>
 <h3>Notes for excution</h3> 
 During the execution of this project, the dataset is accessed from Google Drive, and the trained model is saved back to Google Drive. To ensure the project runs correctly, update the path parameter to match your own Google Drive directory.
 <br><br>
