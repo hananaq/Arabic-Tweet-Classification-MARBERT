@@ -9,13 +9,13 @@ it's collected from Twitter and has two classes Span and Ham
 Prerequisites <br>
 Ensure you have the following dependencies installed before running the notebook:
 
-Python 3.7+
-Jupyter Notebook
-Hugging Face Transformers
-PyTorch or TensorFlow
-scikit-learn
-pandas
-numpy
+Python 3.7+ <br>
+Jupyter Notebook <br>
+Hugging Face Transformers <br>
+PyTorch <Br>
+scikit-learn <br>
+pandas <br>
+numpy <br>
 matplotlib
 
 
